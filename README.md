@@ -5,3 +5,8 @@ There will be some code-changes in the near future hopefully followed by some he
 Prerequisites
 - GASNet (https://gasnet.lbl.gov/)
 - Libvbyte (https://github.com/cruppstahl/libvbyte)
+
+Attributions
+- https://github.com/attractivechaos/klib
+- https://github.com/lh3/minimap
+- https://github.com/lh3/miniasm
